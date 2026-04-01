@@ -1,2 +1,3 @@
-com\example\cencept\CenceptApplication.class
 com\example\cencept\Studentgreet.class
+com\example\cencept\CenceptApplication.class
+com\example\cencept\LoginValidator.class
